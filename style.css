@@ -1,0 +1,10 @@
+body
+{
+    background-color: aquamarine;
+}
+span, p
+{
+    font-size: 35px;
+    padding-top: 10px;
+    font-family: 'Special Elite', fantasy;
+}
